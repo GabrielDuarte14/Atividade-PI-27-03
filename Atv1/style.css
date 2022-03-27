@@ -1,0 +1,27 @@
+.div1{
+    background-color: #00be85;
+    width: 400px;
+    height: 400px;
+}
+.div2{
+    background-color: #9c009c;
+    height: 40%;
+    width: 40%;
+}
+.paragrafo{
+    color: #e3e704;
+    background-color:#3e40e6;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.div3{
+    background-color: #bcca40;
+    width: 615px;
+    height: 248px;
+}
+.div4{
+    width: 65%;
+    height: 40%;
+    background-color: #ca4c4c;
+}
